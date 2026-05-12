@@ -38,7 +38,7 @@ print(x / y)
 
 x = 5
 y = 2
-print(x % y)
+print(x % y) # helps us check if its even or odd
 
 x = 2
 y = 5

@@ -43,4 +43,4 @@ def check_even(number):
         return "Odd"
 
 for i in range(1, 6):
-    print(i, check_even(i))
+    print(i, check_even(i)) 
